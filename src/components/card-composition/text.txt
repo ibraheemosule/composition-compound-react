@@ -1,0 +1,13 @@
+In this card, a prop with name is passed and rendered among its children
+
+Advantage
+No prop drilling
+We have control over the subcompoenents we want to rendered
+Parent holds the source of truth to prop state
+Can choose the component to render and the one not to render
+
+Cons
+Severed Parent Child relationship
+Too many imports
+No control over which jsx to render to fit into the card component
+

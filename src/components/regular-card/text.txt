@@ -1,0 +1,7 @@
+Advantage
+NONE
+
+Cons
+Rigid
+All contents will always be rendered
+reusability is very limited

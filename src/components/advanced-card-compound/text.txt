@@ -1,0 +1,11 @@
+In this card, a prop with name is passed and rendered among its children
+
+pros
+Card has a close relationship with the component it renders
+Components are more descriptive on where they are to be used
+Card subcompoenents can not be used outside the Card scope
+Card knows the subcompoenents that are being rendered
+Card  parent-child prop relationship re-established
+
+Cons
+Looks a little complex at first so should be used only when neccessary

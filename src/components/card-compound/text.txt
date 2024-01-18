@@ -1,0 +1,13 @@
+In this card, a prop with name is passed and rendered among its children
+
+pros
+no prop drilling
+subcompoenents are properties on the Card
+Components are more descriptive on where they are to be used
+Can choose the component to render and the one not to render
+limited imports where it's being used
+
+Cons
+Card subcompoenents can still be used outside the Card scope
+Card does not know if it's subcompoenents are what is being rendered
+Card still doesn't have parent-child prop relationship with children
